@@ -16,7 +16,7 @@ public class EntidadBancoSantander {
         String data;
         char loop;
         // Inicio ejecución
-        System.out.println("BSFDVZDVZDBZDBZDBZ<DBDBADBADBADBADBADBADBAEBABABABAEBAEBAEBABABAAEBBAABBABAEBAAB");
+        System.out.println("BASES DE DATREDD");
         do{
             do{
                 System.out.println("Seleccione operación:");
